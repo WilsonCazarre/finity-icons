@@ -38,13 +38,13 @@ Both icon styles are preconfigured to be stylable by setting the `color` CSS pro
 First, install `@heroicons/react` from npm:
 
 ```sh
-npm install @heroicons/react
+npm install @finity-icons/react
 ```
 
 Now each icon can be imported individually as a React component:
 
 ```js
-import { BeakerIcon } from '@heroicons/react/solid'
+import { BeakerIcon } from '@finity-icons/react/solid'
 
 function MyComponent() {
   return (
@@ -70,7 +70,7 @@ Icons use an upper camel case naming convention and are always suffixed with the
 First, install `@heroicons/vue` from npm:
 
 ```sh
-npm install @heroicons/vue
+npm install @finity-icons/vue
 ```
 
 Now each icon can be imported individually as a Vue component:
@@ -84,7 +84,7 @@ Now each icon can be imported individually as a Vue component:
 </template>
 
 <script>
-import { BeakerIcon } from '@heroicons/vue/solid'
+import { BeakerIcon } from '@finity-icons/vue/solid'
 
 export default {
   components: { BeakerIcon }
