@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M21 15.546c-.523 0-1.046.151-1.5.454a2.704 2.704 0 01-3 0 2.704 2.704 0 00-3 0 2.704 2.704 0 01-3 0 2.704 2.704 0 00-3 0 2.704 2.704 0 01-3 0 2.701 2.701 0 00-1.5-.454M9 6v2m3-2v2m3-2v2M9 3h.01M12 3h.01M15 3h.01M21 21v-7a2 2 0 00-2-2H5a2 2 0 00-2 2v7h18zm-3-9v-2a2 2 0 00-2-2H8a2 2 0 00-2 2v2h12z"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32" stroke-width="2" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M16 11V8M16 8c5.775-2 0-7 0-7s-6 5 0 7zM20.25 15.75a4.25 4.25 0 01-8.5 0"/>
+  <path stroke-linecap="round" stroke-linejoin="round" d="M11.75 15.75A4.25 4.25 0 017.588 20c-2.388.05-4.338-1.95-4.338-4.338V14a2.987 2.987 0 013-3h19.5a2.988 2.988 0 013 3v1.662c0 2.388-1.95 4.388-4.337 4.338a4.25 4.25 0 01-4.163-4.25"/>
+  <path stroke-linecap="round" stroke-linejoin="round" d="M27 19.163V26a1 1 0 01-1 1H6a1 1 0 01-1-1v-6.837"/>
 </svg>
